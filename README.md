@@ -1,3 +1,6 @@
+A Javascript React Application that make a web request using Fetch API so that show us the weather through OpenWeatherMap.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
